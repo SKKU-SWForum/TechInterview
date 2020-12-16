@@ -13,8 +13,15 @@
 |Overlaped Rectangles|C language|40 min|Tux|[Link](PS/Overlaped%20Rectangles.md)|
 |Conference Room|C language|40 min|Tux|[Link](PS/Conference%20Room.md)|
 
-
+* * *
 ### Database
 |Name|Language|Time|Contributor|Link|
 |---|---|---|---|---|
 |Search,Build Tree|C language|40 min|Tux|[Link](DB/SearchBuild%20Tree.md)|
+
+* * *
+### Contributors
+|NickName|Contributes|
+|---|---|
+|raven724|Open Repository, restore notion backups|
+|Tux|Contribute at notion database.|
